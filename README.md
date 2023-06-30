@@ -37,14 +37,12 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 · **Recover** affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
 
-<h2>Resources </h2>
-
- ### [TCP/HTTP log](https://docs.google.com/document/d/1mLq-qSedt4ZS8SSAQMWuOQ2djibob38wkUJZS3zTCrw/template/preview?usp=sharing&resourcekey=0-yvXQeSsKts64mfpFG8Jm3Q)
 
 <h2>Walk-through</h2>
-
+I started this simulation by cautiously analyzing the scenario and downloading a copy of the NIST CSF as to be more accurate with each step.
 <p align="left">
-By analyzing the log I noticed the following connection attempts:
+ <br/><br />
+ After I was able to grasp the situation, I tried summaryzing 
   <br/><br />
 <img src="https://i.imgur.com/mb3ijXT.png" height="55%" width="55%" alt="Abnormal connections"/>
 <br /><br />
