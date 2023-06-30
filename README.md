@@ -42,24 +42,18 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 I started this simulation by cautiously analyzing the scenario and downloading a copy of the NIST CSF as to be more accurate with each step.
 <p align="left">
  <br/><br />
- After I was able to grasp the situation, I tried summaryzing 
+ After I was able to grasp the situation, I did a brief summarization of the attack as to bring the reader up to date on it.
   <br/><br />
-<img src="https://i.imgur.com/mb3ijXT.png" height="55%" width="55%" alt="Abnormal connections"/>
+<img src="https://i.imgur.com/gxRNBLy.png" height="55%" width="55%" alt="Summary"/>
 <br /><br />
-This behavior goes on until the web server gets overloaded and ends up unable to respond to any connections.
+From here on out, I proceeeded to follow the framework's guidelines and integrate each step in my report:
 <br /><br />
-<img src="https://i.imgur.com/GbTdY1T.png" height="55%" width="55%" alt="Agravação"/>
+<img src="https://i.imgur.com/RTEuo2E.png" height="55%" width="55%" alt="Report"/>
 <br /><br />
-Following that, I decided to analyze the abnormal logs individually.
-I was then able to notice two common factors between them: The origin IP address and the kind of packet that was sent. 
+I concluded the project by adding a note, making a final analysis on the occurrence and recommending further action:
   <br/><br />
-<img src="https://i.imgur.com/4EzNKAl.png" height="55%" width="55%" alt="Padrão"/>
-<br /><br />
-Henceforth, I was able to deduce that the attack was of the DoS SYN flood attack, since it originated from a single IP address and used exclusevely SYN requests.
-<br/><br />
-The final step was to come up with a report by using the deducted data along with the scenario information.
-<br /><br />
-<img src="https://i.imgur.com/yr793sv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gwnkAfZ.png" height="55%" width="55%" alt="Note"/>
+
 </p>
 <h2>Note</h2>
 
