@@ -57,4 +57,4 @@ I concluded the project by adding a note, making a final analysis on the occurre
 </p>
 <h2>Note</h2>
 
- This project was part of the course [Google Cybersecurity Professional Certificate.](https://www.coursera.org/professional-certificates/google-cybersecurity) <br />
+ This project was part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) course.<br />
